@@ -36,7 +36,7 @@
 
         static int datoA = 1;
         static int datoB = 6;
-        public void recursin_Domino(int N)
+        public static void recursin_Domino(int N)
         {
         
         if(N == 0)
